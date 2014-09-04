@@ -74,7 +74,7 @@ def Process(table):
     table.lengths = [p.prglength for p in table.records]
     table.n = len(table.lengths)
     table.mu = Mean(table.lengths)
-    table.std = Var(table.lengths)
+    table.std = math.sqrt(Var(table.lengths))
 
 
 def MakeTables(data_dir='.'):
