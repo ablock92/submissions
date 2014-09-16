@@ -18,5 +18,6 @@ The current best performing model contains the following attributes:
 2. Percentage of Top 10 billed actors for previous movie that appear in sequel
 3. The number of the movie in the series
 4. The budget of the movie
-  * This can be included because typically a studio will have a projected budget in mind when making this decision
+  * This can be included because typically a studio will have a projected budget in mind when choosing whether or not to make a sequel
+
 
