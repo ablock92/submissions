@@ -1,1 +1,1 @@
-![](.img/BoxOffice_hist.png)
+![](./img/BoxOffice_hist.png)
