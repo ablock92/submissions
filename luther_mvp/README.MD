@@ -1,0 +1,1 @@
+![](.img/BoxOffice_hist.png)
