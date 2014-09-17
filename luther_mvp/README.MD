@@ -15,9 +15,15 @@ The two plots have relatively similar shapes to their distribution. This most li
 The current best performing model contains the following attributes:
 
 1. Box Office of previous movie
-2. Percentage of Top 10 billed actors for previous movie that appear in sequel
+2. The percentage of Top 10 billed actors for previous movie that also appear in sequel
 3. The number of the movie in the series
 4. The budget of the movie
   * This can be included because typically a studio will have a projected budget in mind when choosing whether or not to make a sequel
+
+The plot below shows the Box Office gross of the sequel as a function of the Box Office gross of the previous movie. The actual values and predicted values (calculated by the regression model) are both shown.
+
+![](./img/Regression_all_factors.png)
+
+
 
 
