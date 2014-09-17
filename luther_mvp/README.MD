@@ -15,7 +15,7 @@ Building a linear model to predict the box office success of a movie based only 
 
 The plot of actual values, predicted values, and y=x can be seen below:
 
-![](./img/BoxOffice_hist.png)
+![](./img/Regression_only_bo.png)
 
 The line of predicted values is almost exactly the same as the line for y=x. This suggests that a sequel can be expected to perform about as well as its predecessor at the box office.
 
